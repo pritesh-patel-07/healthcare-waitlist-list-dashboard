@@ -20,8 +20,7 @@ data/ # Sample or anonymized data (if any)
 
 
 ## Screenshots
-![Overview](assets/screenshots/overview.png)
-
+![Overview](Healthcare-Waitlist-Dashboard/assets/screenshots/overview.png)
 ## How to Use
 1. Open `PowerBI/Healthcare_Waitlist.pbix` in Power BI Desktop.
 2. (If needed) Update query paths to your local `data/` folder.

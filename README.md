@@ -20,7 +20,7 @@ data/ # Sample or anonymized data (if any)
 
 
 ## Screenshots
-("D:\MSC\PROJECTS\healthcare-waitlist-dashboard-main\Healthcare-Waitlist-Dashboard\assets\screenshots\overview.png")
+![Overview]("healthcare-waitlist-dashboard-main\Healthcare-Waitlist-Dashboard\assets\screenshots\overview.png")
 
 
 ## How to Use

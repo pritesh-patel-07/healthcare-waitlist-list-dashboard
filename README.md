@@ -1,4 +1,3 @@
-# healthcare-waitlist-list-dashboard
 # Healthcare Waiting List Optimization Dashboard
 
 **Tech Stack:** Power BI, DAX, SQL, Data Modeling, Data Visualization, Business Intelligence
